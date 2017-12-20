@@ -1,0 +1,405 @@
+ Epoch : 0
+Epoch : 0 , Avg training loss : 8.963031 , Training Perplexity : 7808.990079 
+Time taken = 133.435357
+Epoch : 0 , Avg validation loss : 8.961872 , Validation Perplexity : 7799.941520
+ Epoch : 1
+Epoch : 1 , Avg training loss : 8.939311 , Training Perplexity : 7625.944491 
+Time taken = 111.640642
+ Epoch : 2
+Epoch : 2 , Avg training loss : 8.912816 , Training Perplexity : 7426.543242 
+Time taken = 104.969556
+ Epoch : 3
+Epoch : 3 , Avg training loss : 8.879228 , Training Perplexity : 7181.246349 
+Time taken = 102.831747
+ Epoch : 4
+Epoch : 4 , Avg training loss : 8.827021 , Training Perplexity : 6815.950892 
+Time taken = 120.282939
+ Epoch : 5
+Epoch : 5 , Avg training loss : 8.720894 , Training Perplexity : 6129.654777 
+Time taken = 105.310646
+ Epoch : 6
+Epoch : 6 , Avg training loss : 8.506665 , Training Perplexity : 4947.634126 
+Time taken = 99.181031
+ Epoch : 7
+Epoch : 7 , Avg training loss : 8.388992 , Training Perplexity : 4398.381635 
+Time taken = 105.888389
+ Epoch : 8
+Epoch : 8 , Avg training loss : 8.264280 , Training Perplexity : 3882.677772 
+Time taken = 103.354638
+ Epoch : 9
+Epoch : 9 , Avg training loss : 7.999994 , Training Perplexity : 2980.939020 
+Time taken = 100.006743
+ Epoch : 10
+Epoch : 10 , Avg training loss : 7.595424 , Training Perplexity : 1989.072342 
+Time taken = 98.866363
+Epoch : 10 , Avg validation loss : 7.175016 , Validation Perplexity : 1306.381242
+ Epoch : 11
+Epoch : 11 , Avg training loss : 7.338392 , Training Perplexity : 1538.236775 
+Time taken = 98.116846
+ Epoch : 12
+Epoch : 12 , Avg training loss : 7.157286 , Training Perplexity : 1283.423143 
+Time taken = 98.091728
+ Epoch : 13
+Epoch : 13 , Avg training loss : 7.005502 , Training Perplexity : 1102.683453 
+Time taken = 98.317274
+ Epoch : 14
+Epoch : 14 , Avg training loss : 6.875527 , Training Perplexity : 968.285804 
+Time taken = 98.318882
+ Epoch : 15
+Epoch : 15 , Avg training loss : 6.765693 , Training Perplexity : 867.567551 
+Time taken = 97.892167
+ Epoch : 16
+Epoch : 16 , Avg training loss : 6.669772 , Training Perplexity : 788.215803 
+Time taken = 98.228530
+ Epoch : 17
+Epoch : 17 , Avg training loss : 6.586156 , Training Perplexity : 724.988572 
+Time taken = 97.988601
+ Epoch : 18
+Epoch : 18 , Avg training loss : 6.513936 , Training Perplexity : 674.476210 
+Time taken = 98.234968
+ Epoch : 19
+Epoch : 19 , Avg training loss : 6.450885 , Training Perplexity : 633.262533 
+Time taken = 98.752220
+ Epoch : 20
+Epoch : 20 , Avg training loss : 6.394902 , Training Perplexity : 598.784890 
+Time taken = 98.152935
+Epoch : 20 , Avg validation loss : 6.050677 , Validation Perplexity : 424.400256
+ Epoch : 21
+Epoch : 21 , Avg training loss : 6.344854 , Training Perplexity : 569.554393 
+Time taken = 98.507040
+ Epoch : 22
+Epoch : 22 , Avg training loss : 6.298738 , Training Perplexity : 543.885350 
+Time taken = 98.223822
+ Epoch : 23
+Epoch : 23 , Avg training loss : 6.256825 , Training Perplexity : 521.560456 
+Time taken = 98.318303
+ Epoch : 24
+Epoch : 24 , Avg training loss : 6.218132 , Training Perplexity : 501.765146 
+Time taken = 98.590744
+ Epoch : 25
+Epoch : 25 , Avg training loss : 6.181525 , Training Perplexity : 483.729323 
+Time taken = 98.057938
+ Epoch : 26
+Epoch : 26 , Avg training loss : 6.147350 , Training Perplexity : 467.476895 
+Time taken = 98.313042
+ Epoch : 27
+Epoch : 27 , Avg training loss : 6.115153 , Training Perplexity : 452.665506 
+Time taken = 98.183523
+ Epoch : 28
+Epoch : 28 , Avg training loss : 6.085139 , Training Perplexity : 439.280749 
+Time taken = 98.286899
+ Epoch : 29
+Epoch : 29 , Avg training loss : 6.056374 , Training Perplexity : 426.824768 
+Time taken = 98.644931
+ Epoch : 30
+Epoch : 30 , Avg training loss : 6.029172 , Training Perplexity : 415.370991 
+Time taken = 98.461181
+Epoch : 30 , Avg validation loss : 5.743824 , Validation Perplexity : 312.256080
+ Epoch : 31
+Epoch : 31 , Avg training loss : 6.003105 , Training Perplexity : 404.683462 
+Time taken = 98.090922
+ Epoch : 32
+Epoch : 32 , Avg training loss : 5.978367 , Training Perplexity : 394.795322 
+Time taken = 98.109057
+ Epoch : 33
+Epoch : 33 , Avg training loss : 5.954487 , Training Perplexity : 385.479219 
+Time taken = 98.019873
+ Epoch : 34
+Epoch : 34 , Avg training loss : 5.931161 , Training Perplexity : 376.591346 
+Time taken = 98.651717
+ Epoch : 35
+Epoch : 35 , Avg training loss : 5.909069 , Training Perplexity : 368.363228 
+Time taken = 98.176645
+ Epoch : 36
+Epoch : 36 , Avg training loss : 5.887286 , Training Perplexity : 360.425913 
+Time taken = 98.194905
+ Epoch : 37
+Epoch : 37 , Avg training loss : 5.866297 , Training Perplexity : 352.939674 
+Time taken = 98.400029
+ Epoch : 38
+Epoch : 38 , Avg training loss : 5.845889 , Training Perplexity : 345.809851 
+Time taken = 98.440481
+ Epoch : 39
+Epoch : 39 , Avg training loss : 5.825893 , Training Perplexity : 338.963571 
+Time taken = 98.050643
+ Epoch : 40
+Epoch : 40 , Avg training loss : 5.806292 , Training Perplexity : 332.384342 
+Time taken = 98.187784
+Epoch : 40 , Avg validation loss : 5.572282 , Validation Perplexity : 263.033685
+ Epoch : 41
+Epoch : 41 , Avg training loss : 5.787394 , Training Perplexity : 326.161945 
+Time taken = 98.334811
+ Epoch : 42
+Epoch : 42 , Avg training loss : 5.769126 , Training Perplexity : 320.257591 
+Time taken = 97.978483
+ Epoch : 43
+Epoch : 43 , Avg training loss : 5.751118 , Training Perplexity : 314.542050 
+Time taken = 98.626824
+ Epoch : 44
+Epoch : 44 , Avg training loss : 5.734208 , Training Perplexity : 309.268021 
+Time taken = 97.973364
+ Epoch : 45
+Epoch : 45 , Avg training loss : 5.716826 , Training Perplexity : 303.938648 
+Time taken = 98.043109
+ Epoch : 46
+Epoch : 46 , Avg training loss : 5.699589 , Training Perplexity : 298.744650 
+Time taken = 98.331050
+ Epoch : 47
+Epoch : 47 , Avg training loss : 5.682975 , Training Perplexity : 293.822308 
+Time taken = 98.356235
+ Epoch : 48
+Epoch : 48 , Avg training loss : 5.667167 , Training Perplexity : 289.213992 
+Time taken = 98.555871
+ Epoch : 49
+Epoch : 49 , Avg training loss : 5.651878 , Training Perplexity : 284.825948 
+Time taken = 98.260397
+ Epoch : 50
+Epoch : 50 , Avg training loss : 5.636332 , Training Perplexity : 280.432322 
+Time taken = 98.208676
+Epoch : 50 , Avg validation loss : 5.446219 , Validation Perplexity : 231.879726
+ Epoch : 51
+Epoch : 51 , Avg training loss : 5.620735 , Training Perplexity : 276.092118 
+Time taken = 98.221593
+ Epoch : 52
+Epoch : 52 , Avg training loss : 5.605848 , Training Perplexity : 272.012487 
+Time taken = 98.084634
+ Epoch : 53
+Epoch : 53 , Avg training loss : 5.591385 , Training Perplexity : 268.106684 
+Time taken = 98.572697
+ Epoch : 54
+Epoch : 54 , Avg training loss : 5.576986 , Training Perplexity : 264.273904 
+Time taken = 98.340423
+ Epoch : 55
+Epoch : 55 , Avg training loss : 5.562832 , Training Perplexity : 260.559622 
+Time taken = 98.373911
+ Epoch : 56
+Epoch : 56 , Avg training loss : 5.549048 , Training Perplexity : 256.992732 
+Time taken = 98.374117
+ Epoch : 57
+Epoch : 57 , Avg training loss : 5.535325 , Training Perplexity : 253.490145 
+Time taken = 98.142989
+ Epoch : 58
+Epoch : 58 , Avg training loss : 5.522074 , Training Perplexity : 250.153322 
+Time taken = 98.554554
+ Epoch : 59
+Epoch : 59 , Avg training loss : 5.508939 , Training Perplexity : 246.889040 
+Time taken = 98.153145
+ Epoch : 60
+Epoch : 60 , Avg training loss : 5.495879 , Training Perplexity : 243.685612 
+Time taken = 97.980390
+Epoch : 60 , Avg validation loss : 5.365578 , Validation Perplexity : 213.914861
+ Epoch : 61
+Epoch : 61 , Avg training loss : 5.483133 , Training Perplexity : 240.599297 
+Time taken = 98.290939
+ Epoch : 62
+Epoch : 62 , Avg training loss : 5.470450 , Training Perplexity : 237.567038 
+Time taken = 98.010162
+ Epoch : 63
+Epoch : 63 , Avg training loss : 5.458377 , Training Perplexity : 234.716243 
+Time taken = 98.221895
+ Epoch : 64
+Epoch : 64 , Avg training loss : 5.446012 , Training Perplexity : 231.831676 
+Time taken = 98.175460
+ Epoch : 65
+Epoch : 65 , Avg training loss : 5.434165 , Training Perplexity : 229.101465 
+Time taken = 98.095993
+ Epoch : 66
+Epoch : 66 , Avg training loss : 5.422073 , Training Perplexity : 226.347868 
+Time taken = 97.926526
+ Epoch : 67
+Epoch : 67 , Avg training loss : 5.410267 , Training Perplexity : 223.691318 
+Time taken = 98.304294
+ Epoch : 68
+Epoch : 68 , Avg training loss : 5.398446 , Training Perplexity : 221.062643 
+Time taken = 98.397865
+ Epoch : 69
+Epoch : 69 , Avg training loss : 5.387200 , Training Perplexity : 218.590409 
+Time taken = 97.797889
+ Epoch : 70
+Epoch : 70 , Avg training loss : 5.375668 , Training Perplexity : 216.084159 
+Time taken = 98.106452
+Epoch : 70 , Avg validation loss : 5.296289 , Validation Perplexity : 199.594676
+ Epoch : 71
+Epoch : 71 , Avg training loss : 5.364592 , Training Perplexity : 213.704127 
+Time taken = 98.099757
+ Epoch : 72
+Epoch : 72 , Avg training loss : 5.353309 , Training Perplexity : 211.306410 
+Time taken = 98.106149
+ Epoch : 73
+Epoch : 73 , Avg training loss : 5.342292 , Training Perplexity : 208.991163 
+Time taken = 98.456478
+ Epoch : 74
+Epoch : 74 , Avg training loss : 5.331586 , Training Perplexity : 206.765587 
+Time taken = 97.740380
+ Epoch : 75
+Epoch : 75 , Avg training loss : 5.320724 , Training Perplexity : 204.532000 
+Time taken = 97.933339
+ Epoch : 76
+Epoch : 76 , Avg training loss : 5.309984 , Training Perplexity : 202.346964 
+Time taken = 97.951344
+ Epoch : 77
+Epoch : 77 , Avg training loss : 5.299567 , Training Perplexity : 200.250154 
+Time taken = 97.965231
+ Epoch : 78
+Epoch : 78 , Avg training loss : 5.289074 , Training Perplexity : 198.159908 
+Time taken = 98.511618
+ Epoch : 79
+Epoch : 79 , Avg training loss : 5.278476 , Training Perplexity : 196.070903 
+Time taken = 98.048981
+ Epoch : 80
+Epoch : 80 , Avg training loss : 5.267903 , Training Perplexity : 194.008638 
+Time taken = 97.888135
+Epoch : 80 , Avg validation loss : 5.247916 , Validation Perplexity : 190.169555
+ Epoch : 81
+Epoch : 81 , Avg training loss : 5.257794 , Training Perplexity : 192.057377 
+Time taken = 97.997170
+ Epoch : 82
+Epoch : 82 , Avg training loss : 5.247570 , Training Perplexity : 190.103675 
+Time taken = 98.427499
+ Epoch : 83
+Epoch : 83 , Avg training loss : 5.237501 , Training Perplexity : 188.199187 
+Time taken = 98.125985
+ Epoch : 84
+Epoch : 84 , Avg training loss : 5.227413 , Training Perplexity : 186.310162 
+Time taken = 98.231881
+ Epoch : 85
+Epoch : 85 , Avg training loss : 5.217700 , Training Perplexity : 184.509361 
+Time taken = 98.025799
+ Epoch : 86
+Epoch : 86 , Avg training loss : 5.207642 , Training Perplexity : 182.662830 
+Time taken = 98.094370
+ Epoch : 87
+Epoch : 87 , Avg training loss : 5.197863 , Training Perplexity : 180.885365 
+Time taken = 98.365622
+ Epoch : 88
+Epoch : 88 , Avg training loss : 5.188096 , Training Perplexity : 179.127130 
+Time taken = 97.852694
+ Epoch : 89
+Epoch : 89 , Avg training loss : 5.178361 , Training Perplexity : 177.391897 
+Time taken = 97.835874
+ Epoch : 90
+Epoch : 90 , Avg training loss : 5.168950 , Training Perplexity : 175.730178 
+Time taken = 98.026455
+Epoch : 90 , Avg validation loss : 5.216819 , Validation Perplexity : 184.346855
+ Epoch : 91
+Epoch : 91 , Avg training loss : 5.159435 , Training Perplexity : 174.066009 
+Time taken = 97.865589
+ Epoch : 92
+Epoch : 92 , Avg training loss : 5.149821 , Training Perplexity : 172.400544 
+Time taken = 98.419673
+ Epoch : 93
+Epoch : 93 , Avg training loss : 5.140282 , Training Perplexity : 170.763942 
+Time taken = 97.991841
+ Epoch : 94
+Epoch : 94 , Avg training loss : 5.130756 , Training Perplexity : 169.144861 
+Time taken = 97.915578
+ Epoch : 95
+Epoch : 95 , Avg training loss : 5.121621 , Training Perplexity : 167.606831 
+Time taken = 97.950829
+ Epoch : 96
+Epoch : 96 , Avg training loss : 5.112265 , Training Perplexity : 166.045970 
+Time taken = 98.079958
+ Epoch : 97
+Epoch : 97 , Avg training loss : 5.103106 , Training Perplexity : 164.532224 
+Time taken = 98.386793
+ Epoch : 98
+Epoch : 98 , Avg training loss : 5.093786 , Training Perplexity : 163.005869 
+Time taken = 97.981684
+ Epoch : 99
+Epoch : 99 , Avg training loss : 5.084325 , Training Perplexity : 161.470889 
+Time taken = 97.988158
+ Epoch : 100
+Epoch : 100 , Avg training loss : 5.075385 , Training Perplexity : 160.033858 
+Time taken = 98.111857
+Epoch : 100 , Avg validation loss : 5.189540 , Validation Perplexity : 179.386018
+ Epoch : 101
+Epoch : 101 , Avg training loss : 5.066588 , Training Perplexity : 158.632122 
+Time taken = 98.042727
+ Epoch : 102
+Epoch : 102 , Avg training loss : 5.057809 , Training Perplexity : 157.245643 
+Time taken = 98.740293
+ Epoch : 103
+Epoch : 103 , Avg training loss : 5.048765 , Training Perplexity : 155.829843 
+Time taken = 97.923271
+ Epoch : 104
+Epoch : 104 , Avg training loss : 5.040046 , Training Perplexity : 154.477091 
+Time taken = 98.639902
+ Epoch : 105
+Epoch : 105 , Avg training loss : 5.031274 , Training Perplexity : 153.128015 
+Time taken = 97.740365
+ Epoch : 106
+Epoch : 106 , Avg training loss : 5.022187 , Training Perplexity : 151.742757 
+Time taken = 97.886383
+ Epoch : 107
+Epoch : 107 , Avg training loss : 5.013149 , Training Perplexity : 150.377471 
+Time taken = 98.308509
+ Epoch : 108
+Epoch : 108 , Avg training loss : 5.004561 , Training Perplexity : 149.091586 
+Time taken = 97.945211
+ Epoch : 109
+Epoch : 109 , Avg training loss : 4.995670 , Training Perplexity : 147.771933 
+Time taken = 97.969230
+ Epoch : 110
+Epoch : 110 , Avg training loss : 4.987141 , Training Perplexity : 146.516978 
+Time taken = 97.847327
+Epoch : 110 , Avg validation loss : 5.175283 , Validation Perplexity : 176.846721
+ Epoch : 111
+Epoch : 111 , Avg training loss : 4.978663 , Training Perplexity : 145.279980 
+Time taken = 97.813652
+ Epoch : 112
+Epoch : 112 , Avg training loss : 4.969841 , Training Perplexity : 144.003982 
+Time taken = 98.109526
+ Epoch : 113
+Epoch : 113 , Avg training loss : 4.961529 , Training Perplexity : 142.812013 
+Time taken = 97.900406
+ Epoch : 114
+Epoch : 114 , Avg training loss : 4.952982 , Training Perplexity : 141.596565 
+Time taken = 97.919131
+ Epoch : 115
+Epoch : 115 , Avg training loss : 4.944616 , Training Perplexity : 140.416869 
+Time taken = 98.083213
+ Epoch : 116
+Epoch : 116 , Avg training loss : 4.936415 , Training Perplexity : 139.270120 
+Time taken = 97.761591
+ Epoch : 117
+Epoch : 117 , Avg training loss : 4.928171 , Training Perplexity : 138.126685 
+Time taken = 98.803631
+ Epoch : 118
+Epoch : 118 , Avg training loss : 4.919980 , Training Perplexity : 136.999889 
+Time taken = 100.191821
+ Epoch : 119
+Epoch : 119 , Avg training loss : 4.911214 , Training Perplexity : 135.804196 
+Time taken = 100.161392
+ Epoch : 120
+Epoch : 120 , Avg training loss : 4.903114 , Training Perplexity : 134.708676 
+Time taken = 98.020005
+Epoch : 120 , Avg validation loss : 5.164633 , Validation Perplexity : 174.973156
+ Epoch : 121
+Epoch : 121 , Avg training loss : 4.894568 , Training Perplexity : 133.562288 
+Time taken = 99.849110
+ Epoch : 122
+Epoch : 122 , Avg training loss : 4.886548 , Training Perplexity : 132.495385 
+Time taken = 99.892209
+ Epoch : 123
+Epoch : 123 , Avg training loss : 4.878046 , Training Perplexity : 131.373713 
+Time taken = 97.952041
+ Epoch : 124
+Epoch : 124 , Avg training loss : 4.870234 , Training Perplexity : 130.351382 
+Time taken = 98.172790
+ Epoch : 125
+Epoch : 125 , Avg training loss : 4.861910 , Training Perplexity : 129.270843 
+Time taken = 97.937515
+ Epoch : 126
+Epoch : 126 , Avg training loss : 4.854216 , Training Perplexity : 128.280056 
+Time taken = 98.447554
+ Epoch : 127
+Epoch : 127 , Avg training loss : 4.845750 , Training Perplexity : 127.198695 
+Time taken = 98.043720
+ Epoch : 128
+Epoch : 128 , Avg training loss : 4.837753 , Training Perplexity : 126.185436 
+Time taken = 97.915401
+ Epoch : 129
+Epoch : 129 , Avg training loss : 4.830025 , Training Perplexity : 125.214071 
+Time taken = 98.101279
+Epoch : 129 , Avg validation loss : 5.154969 , Validation Perplexity : 173.290407
+Maximum validation accuracy at epoch : 129.000000 with a value of 173.290407

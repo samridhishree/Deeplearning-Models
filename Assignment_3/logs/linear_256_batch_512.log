@@ -1,0 +1,5 @@
+ Epoch : 0
+Epoch : 0 , Avg training loss : 8.963788 , Training Perplexity : 7814.906173 
+Time taken = 120.391261
+Epoch : 0 , Avg validation loss : 8.962791 , Validation Perplexity : 7807.118842
+ Epoch : 1

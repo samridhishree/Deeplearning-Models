@@ -1,0 +1,30 @@
+president : ['president', 'emotions', 'viewing', 'proponents', 'gambler', 'weeklies', 'heavy-truck', 'contras', 'tooth', 'coverage', 'number', 'diplomats', 'compliance', 'excited', 'sol', 'fragile', 'achieved', 'privacy', 'workbooks', 'hayes', 'marriages', 'tutorials', 'perception', 'processes', 'spread', 'cotton', 'lakes', 'jamaica', 'antonio', 'hospitals']
+
+the : ['the', 'its', 'their', 'a', 'corporate', 'his', 'major', 'every', 'your', 'fiscal', 'an', 'random', 'our', 'real', 'very', 'federal', 'sea', 'second', 'foreign', 'former', 'no', "'s", 'oct.', 'relatively', 'american', 'previous', 'supreme', 'another', 'big', 'troubled']
+
+company : ['company', 'bonds', 'people', 'officials', 'america', 'researchers', 'apparently', 'managers', 'traders', 'spokesman', 'firms', 'guard', 'students', 'merc', 'dealers', 'recently', 'soon', 'china', 'products', 'upjohn', 'osha', 'firm', 'already', 'senate', 'edison', 'court', 'carnival', 'card', 'funds', 'september']
+
+government : ['government', 'investment', 'industry', 'people', 'department', 'family', 'irs', 'gone', 'creditor', 'resolution', 'manhattan', 'stores', 'still', 'am', 'world', 'newspaper', 'officially', 'wafa', 'equitable', 'salinas', 'underwriter', 'utility', 'icahn', 'sharedata', 'thus', 'folks', 'singled', 'wrong', 'dam', 'interest']
+
+city : ['city', 'supercomputer', 'district', 'sachs', 'bradley', 'mine', 'ganes', 'nasdaq', 'petersen', 'am', '*t*-8', 'breakfast', 'dinkins', 'campaign', 'kong', 'abortion', 'koito', 'williams', 'riyadh', 'angeles', 'panama', '*t*-146', 'post', '*t*-245', 'households', 'ballplayers', 'street', 'txo', 'agencies', 'zuckerman']
+
+chief : ['chief', 'great', 'reduce', 'nearly', 'largest', 'r.', 'traditional', 'large', 'full', 'main', 'owns', 'international', 'single', 'troubled', 'negative', 'across', 'south', 'via', 'floor', 'leveraged', 'global', 'national', 'sweeping', 'special', 'u.k.', 'joint', 'entirely', 'british', 'prevent', 'editor']
+
+stock : ['stock', 'securities', 'futures', 'exchange', 'chicago', 'holding', 'london', 'country', 'individual', 'small', 'banking', 'campbell', 'money', 'far', 'reuters', 'grain', 'over-the-counter', 'products', 'columbia', 'preferred', 'paper', '*?*', 'equity', 'international', 'spinoff', 'carolina', 'financial', 'attorney', 'construction', 'research']
+
+money : ['money', 'words', 'carrier', 'participants', 'spinoff', 'shipyard', 'mine', 'grain', 'bradley', 'earthquake', 'reliance', 'avenue', 'clearance', 'transplant', '*ich*-4', 'peaks', 'ballot', 'fasteners', 'nbi', 'moore', 'beth', '*t*-8', 'financing', 'creditor', 'husband', '*t*-36', 'agree', 'assume', 'certainly', 'negatives']
+
+you : ['you', 'we', 'they', 'i', 'might', 'must', 'company', 'investors', 'recently', 'never', 'it', "'re", 'traders', 'been', "'ve", 'apparently', 'still', 'also', '*', "'m", 'shall', 'being', 'would', 'exporters', '*-1', 'often', 'already', 'managers', 'america', 'then']
+
+business : ['business', 'market', 'economy', 'investor', 'drugs', 'markets', 'service', 'car', 'information', 'containers', 'contracts', 'deals', 'departure', 'women', '*t*-1', 'inflation', '*t*-2', 'fall', 'conference', 'inefficiencies', 'product', 'population', '1990', 'fed', 'sugar', 'currency', 'battle', 'operations', '*t*-28', 'carrier']
+
+america : ['america', 'people', 'korea', 'brazil', 'gulf', 'edison', 'concern', 'magazine', 'researchers', 'conditions', 'woman', 'soon', 'arbitrage', 'bonds', 'sides', 'operations', 'carnival', 'stocks', '*exp*-2', 'murakami', 'apparently', 'still', 'survey', '*t*-54', 'engineers', 'women', 'coleman', 'influence', 'reliance', 'products']
+
+question : ['question', 'anything', 'wines', 'banker', 'partnership', 'aides', 'dislike', 'increases', 'murakami', 'teachers', 'railing', '*ich*-4', 'supply', 'scenes', '*-22', 'assumption', 'victims', 'magna', 'lancaster', 'plaintiffs', 'crocidolite', 'leaders', 'avenue', 'approval', 'property', 'direction', 'moore', 'tribe', 'proceedings', 'purpose']
+
+leader : ['leader', 'houses', 'dressed', 'gelles', 'freedom', 'dean', '*-21', 'remorse', 'outlets', 'psychology', 'requests', 'backdrop', 'feet', 'cuvees', 'factories', 'gift', '*t*-146', 'slew', 'aktiebolaget', 'onus', 'decrease', 'petersen', 'fires', 'county', 'processors', 'belfries', 'plot', 'tally', 'expired', 'heavy-truck']
+
+subsidiary : ['subsidiary', 'corporations', 'noble', 'anxieties', 'church', 'deaths', 'leader', 'houses', 'maturity', 'brain', 'candidate', 'briefing', 'tune', 'freedom', 'bit', 'inventories', 'weather', 'zoomed', 'outlets', 'romanee-conti', 'fires', 'perception', 'fills', 'tribe', 'climate', 'nature', 'democrats', 'piece', 'hayes', 'plaintiffs']
+
+officer : ['officer', 'comprehensive', '64', 'enormous', '195', 'texas', 'goldman', 'iowa', 'univest', '*t*-63', 'cedric', 'nowhere', 'run-down', 'amusing', 'holdings', 'romanticized', '*t*-226', 'exporter', 'positive', 'evans', 'steelmaker', '458', 'surprising', 'thin', 'year-long', 'reader', 'topix', 'recovery', 'allen', 'permissible']
+
