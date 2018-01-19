@@ -28,7 +28,7 @@ They are given as command line arguments as follows:
 
 
 __*Example run command for running linear language model:*__
-`python nn_lm_linear.py --out_dir models/ --input_dim 16 --hidden_dim 512 --lr 0.01 --batch_size 512 --epochs 130 --log_file logs/linear_512.log`
+> `python nn_lm_linear.py --out_dir models/ --input_dim 16 --hidden_dim 512 --lr 0.01 --batch_size 512 --epochs 130 --log_file logs/linear_512.log`
 
 __*Example run command for running non-linear language model:*__
-`python nn_lm_tanh.py --out_dir models/ --input_dim 16 --hidden_dim 512 --lr 0.01 --batch_size 512 --epochs 130 --log_file logs/non_linear512.log`
+> `python nn_lm_tanh.py --out_dir models/ --input_dim 16 --hidden_dim 512 --lr 0.01 --batch_size 512 --epochs 130 --log_file logs/non_linear512.log`

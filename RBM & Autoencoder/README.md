@@ -33,10 +33,10 @@ They are given as command line arguments as follows:
 
 
 __*Example run command for running RBM:*__
-`python -u rbm.py --out_dir 'hidden_rbm/' --hidden_dim 100 --lr 0.01 --k 1 --epochs 200 >> run1.out`
+> `python -u rbm.py --out_dir 'hidden_rbm/' --hidden_dim 100 --lr 0.01 --k 1 --epochs 200 >> run1.out`
 
 __*Example run command for running autoencoder:*__
-`python -u autoencoder.py --out_dir hidden_denoise/ --hidden_dim 100 --lr 0.01 --dropout 0.0 --epochs 200 >> run2.out`
+> `python -u autoencoder.py --out_dir hidden_denoise/ --hidden_dim 100 --lr 0.01 --dropout 0.0 --epochs 200 >> run2.out`
 
 __*Example run command for denoising autoencoder:*__
-`python -u autoencoder.py --out_dir hidden_denoise/ --hidden_dim 100 --lr 0.01 --dropout 0.1 --epochs 200 >> run3.out`
+> `python -u autoencoder.py --out_dir hidden_denoise/ --hidden_dim 100 --lr 0.01 --dropout 0.1 --epochs 200 >> run3.out`
