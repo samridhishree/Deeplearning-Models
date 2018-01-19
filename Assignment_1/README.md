@@ -32,11 +32,11 @@ They are given as command line arguments as follows:
 * layer2_dim: Number of hidden units in second layer')
 * loss: Type of loss - 'sigmoid', 'relu' or 'tanh'
 
-*Example run command for running single layer network and piping the output to a file:*
-`python -u single_layer_nn.py --out_dir 'models/one_layer/' --hidden_dim 100 --lr 0.1 --reg_param 0 --momentum 0 --batch_size 32 --epochs 200 *  run1.out`
+__*Example run command for running single layer network and piping the output to a file:*__
+> `python -u single_layer_nn.py --out_dir 'models/one_layer/' --hidden_dim 100 --lr 0.1 --reg_param 0 --momentum 0 --batch_size 32 --epochs 200 *  run1.out`
 
-*Example run command for running two layer network and piping the output to a file:*
-`python -u two_layer_neural_network.py --out_dir 'new_models/two_layer/' --layer1_dim 200.0 --layer2_dim 100.0 --lr 0.01 --reg_param 0.0 --momentum 0.0 --batch_size 32 --epochs 200 --loss sigmoid *  run2.out`
+__*Example run command for running two layer network and piping the output to a file:*__
+> `python -u two_layer_neural_network.py --out_dir 'new_models/two_layer/' --layer1_dim 200.0 --layer2_dim 100.0 --lr 0.01 --reg_param 0.0 --momentum 0.0 --batch_size 32 --epochs 200 --loss sigmoid *  run2.out`
 
-*Example run command for two layer network with batchnorm and piping the output to a file:*
-`python -u two_layer_neural_network_batch_norm.py --out_dir 'new_models/two_layer_bn/' --layer1_dim 200.0 --layer2_dim 100.0 --lr 0.01 --reg_param 0.0 --momentum 0.0 --batch_size 32 --epochs 200 *  run3.out`
+__*Example run command for two layer network with batchnorm and piping the output to a file:*__
+> `python -u two_layer_neural_network_batch_norm.py --out_dir 'new_models/two_layer_bn/' --layer1_dim 200.0 --layer2_dim 100.0 --lr 0.01 --reg_param 0.0 --momentum 0.0 --batch_size 32 --epochs 200 *  run3.out`
