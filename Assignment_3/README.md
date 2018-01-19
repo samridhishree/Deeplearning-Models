@@ -1,4 +1,6 @@
-The hyper parameter are given as command line arguments. There are 2 files included:
+# Multi Layer Perceptron with Mini-Batching and Batch Normalization
+
+The hyper parameters are given as command line arguments. There are 2 files included:
 
 1. nn_lm_linear.py - Implementation of a Neural Network language Model with Linear Hidden Layer.
 2. nn_lm_tanh.py - Implementation of a Neural Network language Model with tanh Hidden Layer.
