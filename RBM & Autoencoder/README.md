@@ -9,7 +9,7 @@ It used the MNIST dataset, that contain images of size 28 b 28. These images are
 digitstrain.txt contains 3000 lines. Each line contains 785 numbers (comma delimited): the first 784 real-valued numbers correspond to the 784 pixel values, and the last number denotes the class label: 0 corresponds to digit 0, 1 corresponds to digit 1, etc. digitsvalid.txt and digitstest.txt contain 1000 and 3000 lines and use the same format as above.
 
 
-## Files
+## Code Files
 
 1. rbm.py 
 > Implementation of a Restricted Boltzmann Machine.

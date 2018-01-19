@@ -2,7 +2,13 @@
 
 This project contains an implementation for a multi-layer neural network in python. It implements different activation functions and the network backpropagation. It works on mini-batched training data and employs L2 regularization with momentum in the SGD training update. There is also an implementation for batch normalization. The error plots and the visulaization of the weights of the network can be found under the `plots/` directory. 
 
-## Files
+## Data
+It used the MNIST dataset, that contain images of size 28 b 28. These images are transformed to be represented as a vector of dimension 784 by listing all the pixel values in raster scan order. Each image has a correspoinding label value ranging from 0,....9. It identifies the digit in the image. 
+
+## Format of the data
+digitstrain.txt contains 3000 lines. Each line contains 785 numbers (comma delimited): the first 784 real-valued numbers correspond to the 784 pixel values, and the last number denotes the class label: 0 corresponds to digit 0, 1 corresponds to digit 1, etc. digitsvalid.txt and digitstest.txt contain 1000 and 3000 lines and use the same format as above.
+
+## Code Files
 
 1. single_layer_nn.py 
 > Creates a single layer neural network.
